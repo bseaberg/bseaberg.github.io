@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of student and engineer Byron Seaberg. Contains Byron's resume, project archive, and contact information.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -29,10 +29,11 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,8 +58,8 @@ plugins:
 
 author:
   name   : "Byron Seaberg"
-  avatar : "/assets/images/MIT_dome_profile.jpg"
-  bio    : "A perpetual learner fascinated by all things controls, design, and robotics."
+  avatar : "/assets/images/prof_profile.jpg"
+  bio    : "A perpetual learner fascinated by the application of design and controls in the fields of robotics and sustainability" # fascinated by the application of design and controls, design, and robotics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,7 +94,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
