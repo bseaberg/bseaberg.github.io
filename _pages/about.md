@@ -7,7 +7,7 @@ author_profile: false
 
 ## My name is Byron.
 
-![image](assets/images/prof_profile.jpg){: style="float: left"}
+![image](/assets/images/prof_profile.jpg){: style="float: left"}
 
 I'm a current Master's student at Masachusetts Institute of Technology in the [MechE](https://meche.mit.edu/) department.
 
