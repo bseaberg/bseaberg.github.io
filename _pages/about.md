@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Welcome"
 author_profile: false
 classes: wide
@@ -17,7 +17,7 @@ My name is Byron Seaberg.
 
 I'm currently studying at Massachusetts Institute of Technology in the [MechE](https://meche.mit.edu/) department. I work in the MIT [Precision Motion Control Laboratory](https://pmc.mit.edu/about) under [Prof. David Trumper](https://meche.mit.edu/people/faculty/trumper@mit.edu). My research involves the mechanical design and control of positioning systems for use in semiconductor photolithography tools.
 
-Please check out some of the past [projects](https://bseaberg.github.io/projects/) I have included on this site. If you would like to contact me, don't hesitate to reach out through one of the means listed.
+Please check out some of the past [projects](https://bseaberg.github.io/posts/) I have included on this site. If you would like to contact me, don't hesitate to reach out through one of the means listed.
 Thanks for stopping by!
 
 ## Education
