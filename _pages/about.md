@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About Me"
+author_profile: false
+
 ---
 
 ## Hi- my name is **Byron**.

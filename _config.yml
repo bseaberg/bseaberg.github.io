@@ -16,9 +16,7 @@
 title: Byron Seaberg
 email: byron.seaberg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of student and engineer Byron Seaberg. Contains Byron's resume, project archive, and contact information.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Byron Seaberg"
   avatar : "/assets/images/MIT_dome_profile.jpg"
-  bio    : "A perpetual learner currently fascinated by all things controls, design, and robotics."
+  bio    : "A perpetual learner fascinated by all things controls, design, and robotics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
