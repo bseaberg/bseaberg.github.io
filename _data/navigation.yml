@@ -1,6 +1,6 @@
 main:
   - title: "About Me"
-    url: /about/
+    url: /
   - title: "Projects"
     url: /posts/
   #- title: "Categories"

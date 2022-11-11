@@ -1,9 +1,9 @@
 ---
 permalink: /contact/
-title: "Contact me"
+title: "Contact"
 author_profile: false
 
 ---
 
-
+Email me at: byron dot seaberg at gmail dot com
 
