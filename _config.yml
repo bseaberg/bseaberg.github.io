@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Byron Seaberg"
   avatar : "/assets/images/prof_profile.jpg"
-  bio    : "A perpetual learner fascinated by design and controls" #the application of design and controls in the fields of robotics and sustainability" # fascinated by the application of design and controls, design, and robotics."
+  bio    : "A perpetual learner fascinated by the fields of design and controls" #the application of design and controls in the fields of robotics and sustainability" # fascinated by the application of design and controls, design, and robotics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
